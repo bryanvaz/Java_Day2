@@ -11,6 +11,7 @@ public class CollectionSorting {
         // Create a list of strings
         ArrayList<String> al = new ArrayList<String>();
         al.add("Geeks For Geeks");
+        al.add("Geeks For Geeks2");
         al.add("Friends");
         al.add("Dear");
         al.add("Is");

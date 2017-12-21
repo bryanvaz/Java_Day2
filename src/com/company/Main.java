@@ -19,7 +19,7 @@ public class Main {
 //        Echo.envVariables(args);
 
         // Section 05 - Threading Demo
-//        TestThread.demo();
+        TestThread.demo();
 
         // Section 06 - Reflection Demo
 //        ReflectionDemo.simpleReflection();
@@ -28,8 +28,8 @@ public class Main {
 //        ReflectionDemo.methodDemo();
 
         // Section 07 - Serialization Demo
-        SerializationDemo.writeDemo();
-        SerializationDemo.readDemo();
+//        SerializationDemo.writeDemo();
+//        SerializationDemo.readDemo();
 
     }
 }
